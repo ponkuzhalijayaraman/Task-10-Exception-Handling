@@ -1,0 +1,11 @@
+You need to create a Java program that:
+
+Handles runtime exceptions
+
+Uses try–catch–finally
+
+Creates and uses a custom exception
+
+Shows checked vs unchecked exceptions
+
+Prints meaningful error messages
